@@ -1,0 +1,16 @@
+{
+    "name": "games.yellowpanda.yellowlib.dialog",
+    "author": "Yellow Panda",
+    "displayName": "Yellow Lib - Dialog",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "keywords": [],
+    "description": "Módulo de Sistema de Diálogo da biblioteca Yellow Lib",
+    "samples": [],
+	"dependencies": {
+		"games.yellowpanda.yellowlib.core": "https://github.com/YP-Internal/yellowlib-core.git",
+		"games.yellowpanda.yellowlib.popups": "https://github.com/YP-Internal/yellowlib-popups.git",
+		"com.unity.textmeshpro": "3.0.9",
+		"com.unity.localization": "1.4.5"
+	}
+}
